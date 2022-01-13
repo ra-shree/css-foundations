@@ -1,0 +1,9 @@
+.avatar.propotioned {
+    width: 300px;
+    height: max-content;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: max-content;
+}
