@@ -1,2 +1,2 @@
 # css-foundations
-practicing some of the beginner styling concepts in vanilla CSS
+Practicing Vanilla CSS styling concepts such as Color, Font, Flexbox and Grid
